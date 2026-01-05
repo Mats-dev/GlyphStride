@@ -29,7 +29,6 @@ GlyphStride is designed for athletes who value privacy, simplicity, and ownershi
     *   **Activity Prompts**: Reminds you to connect your sensor before starting a workout.
     *   **Detailed Stats**: View live heart rate during activity and Average HR in your history.
 *   **Activity History**: A detailed history list showing stats, route maps, and analysis charts for every session.
-*   **Support**: A Ko-fi button for users who wish to support the project's development.
 *   **Connectivity & Export**:
     *   **Offline Maps**: Download maps for use without an internet connection.
 *   **Advanced Data Analysis**:
